@@ -11,7 +11,7 @@ export default function App() {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#000',
+        backgroundColor: '#000000',
       }}>
       <Lottie resizeMode="contain" autoSize source={medium} autoPlay loop />
     </SafeAreaView>
